@@ -1,0 +1,9 @@
+#DB_NAME: demoDb
+#DB_SERVER: localhost
+#DB_PORT: 3306
+#DB_USERNAME: root
+#DB_PASSWORD: rootpassword
+
+server:
+  port: 8080
+
